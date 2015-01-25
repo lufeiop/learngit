@@ -6,4 +6,4 @@ Creating a new branch is quick.
 Creating a new branch is quick and simple.
 MEARGE
 today work
-First coder wrote it.
+Second coder wrote it.
